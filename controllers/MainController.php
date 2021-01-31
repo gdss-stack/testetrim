@@ -27,7 +27,7 @@ class MainController extends DbModel
                 $pessoa_id = DbModel::connection()->lastInsertId();
                 $sons = $post['pessoas'][$i]['filhos'];
                 foreach ($sons as $son):
-                    if (!empty($filho)) :
+                    if (!empty($son)) :
                         $arraySons = [
                             'pessoa_id' => $pessoa_id,
                             'nome' => $son

@@ -76,7 +76,7 @@
             adicionaFilho(name, readSonName);
 
 
-        const repeatedName = fathers.pessoas.find(item => item.nome === name);
+        const repeatedName = fathers.pessoas.find(item => item.nome.toLowerCase() === name.toLowerCase());
         if(repeatedName){
             alert("Este nome encontra-se cadastrado");
             return;
