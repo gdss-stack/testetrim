@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="954c1c81-ac60-40e7-b2bc-ff693d2844dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" break_at_first_line="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="8db8d951-c291-4b13-ba5e-af99c47e02eb" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1nbjXTYEaKeBN9STNo3SPzZuc7c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../siscontrat/views/modulos/formacao/pagamento_busca.php" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Gabriel\Programas\xampp\htdocs\testetrim\config" />
+      <recent name="D:\Gabriel\Programas\xampp\htdocs\testetrim\views\plugins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Gabriel\Programas\xampp\htdocs\testetrim" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="954c1c81-ac60-40e7-b2bc-ff693d2844dc" name="Default Changelist" comment="" />
+      <created>1611665723622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611665723622</updated>
+      <workItem from="1611665724743" duration="9108000" />
+      <workItem from="1611675623984" duration="2684000" />
+      <workItem from="1611687552400" duration="5411000" />
+      <workItem from="1611707323981" duration="1511000" />
+      <workItem from="1611754235554" duration="7624000" />
+      <workItem from="1611767761930" duration="4549000" />
+      <workItem from="1611776601108" duration="7594000" />
+      <workItem from="1611841574735" duration="12220000" />
+      <workItem from="1611858605360" duration="6402000" />
+      <workItem from="1611869058437" duration="9569000" />
+      <workItem from="1611932085141" duration="6730000" />
+      <workItem from="1611938939744" duration="10942000" />
+      <workItem from="1612014292643" duration="9170000" />
+      <workItem from="1612035212120" duration="11797000" />
+      <workItem from="1612055948477" duration="6952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/controllers/MainController.php" line="7">
+        <watch expression="$post" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
