@@ -16,7 +16,7 @@
     <!-- Bootstrap 4.1 -->
     <link href="<?= SERVERURL ?>views/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <script src="<?= SERVERURL ?>views/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <title>Teste Trim</title>
+    <title>Teste Turim</title>
 </head>
 
 <body>
